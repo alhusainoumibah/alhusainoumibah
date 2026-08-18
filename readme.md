@@ -1,73 +1,113 @@
-# 👋 Hi, I'm Alhusainou Mi Bah
+# 👋 Hey, I'm Mirion Eve
 
-Student from The Gambia passionate about technology, entrepreneurship, and building digital solutions that solve real world problems.
+### Computer Science Student @ UTG 🇬🇲
 
-I'm currently learning software development while building projects, improving my design skills, and exploring how AI can help people and businesses work smarter.
+I'm a software developer in the making, focused on **building useful products, understanding how technology works, and continuously sharpening my skills.**
 
-## 🚀 What I'm Working On
+I like taking an idea from **concept → code → working product.**
 
-* 🌐 Growing **MirionX**, a digital agency focused on web design, branding, and digital solutions.
-* 💡 Building personal projects to improve my programming skills.
-* 📚 Learning software development one project at a time.
+---
 
-## 🤝 I'm Open To
+## 🧠 What I'm Into
 
-* Beginner friendly open source projects
-* Web development collaborations
-* Student hackathons
-* Startup ideas
-* Tech communities
+* 💻 Software Development
+* 🤖 Artificial Intelligence
+* 📱 Android Development
+* 🌐 Web Development
+* 🗄️ Backend & Databases
+* 🔐 Cybersecurity
+* 🧩 Algorithms & Problem Solving
+* 🚀 Entrepreneurship
+
+---
+
+## ⚡ Currently Building
+
+I'm currently working on personal projects while preparing for my journey into **Computer Science at the University of The Gambia.**
+
+My focus is simple:
+
+> **Learn the fundamentals. Build real things. Break them. Fix them. Repeat.**
+
+---
 
 ## 🌱 Currently Learning
 
-* HTML
-* CSS
-* JavaScript
+* Kotlin & Android Development
 * Python
+* JavaScript
+* Data Structures & Algorithms
+* Databases
+* APIs & Backend Development
 * Git & GitHub
-* Responsive Web Design
+* Software Engineering
+* AI Development
 
-## 🎯 Goals
+---
 
-* Become a professional software developer.
-* Build products that create real impact across Africa.
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Kotlin` `Python` `JavaScript` `HTML` `CSS`
+
+**Development**
+
+`Android` `Git` `GitHub` `REST APIs`
+
+**Backend & Data**
+
+`Supabase` `Appwrite` `SQL`
+
+**Tools**
+
+`VS Code` `Android Studio` `Cursor`
+
+---
+
+## 🚀 What I Want To Build
+
+I'm interested in building technology that solves **real problems**, especially problems affecting people and businesses across Africa.
+
+Long term, I want to work at the intersection of:
+
+**Software × AI × Entrepreneurship**
+
+---
+
+## 🎯 The Mission
+
+* Become an exceptional software engineer.
+* Master computer science fundamentals.
+* Build products used by real people.
 * Contribute to open source.
-* Launch successful tech startups.
-
-## 💬 Ask Me About
-
-* Graphic Design
-* Branding
-* HTML & CSS
-* Student Tech Journey
-* Entrepreneurship
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real projects, even while I'm still learning. Every project is another step toward becoming the developer I want to be.
+* Build and scale technology businesses.
+* Keep learning far beyond university.
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Open To
 
-[LinkedIn](https://www.linkedin.com/in/alhusainou-mi-bah-a0a969334?utm_source=share_via&utm_content=profile&utm_medium=member_android) •
-[X](https://x.com/mirioneve) •
-
-
----
-
-## 💻 Languages & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+* Open source collaboration
+* Student hackathons
+* Interesting software projects
+* AI experiments
+* Technical communities
+* Startup ideas
+* Building with ambitious people
 
 ---
 
-> "Learning in public. Building in public. Improving every day."
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/alhusainou-mi-bah-a0a969334) • [X](https://x.com/mirioneve)
+
+---
+
+## 📊 GitHub
+
+*Building my contribution graph one project at a time.*
+
+---
+
+> **Learn deeply. Build relentlessly. Stay curious.**
