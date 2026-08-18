@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alhusainou Mi Bah
 
-🇬🇲 Student from The Gambia passionate about technology, entrepreneurship, and building digital solutions that solve real world problems.
+Student from The Gambia passionate about technology, entrepreneurship, and building digital solutions that solve real world problems.
 
 I'm currently learning software development while building projects, improving my design skills, and exploring how AI can help people and businesses work smarter.
 
