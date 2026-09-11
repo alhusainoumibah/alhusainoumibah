@@ -49,7 +49,7 @@ My focus is simple:
 
 **Languages**
 
-`Kotlin` `Python` `JavaScript` `HTML` `CSS`
+`Python` `HTML` `CSS`
 
 **Development**
 
