@@ -1,113 +1,45 @@
-# 👋 Hey, I'm Mirion Eve
+# 👋 Hey, I'm Alhusainou Mi Bah
 
 ### Computer Science Student @ UTG 🇬🇲
 
-I'm a software developer in the making, focused on **building useful products, understanding how technology works, and continuously sharpening my skills.**
+I'm a Computer Science student and software developer focused on **building real products and learning by doing**.
 
-I like taking an idea from **concept → code → working product.**
+I enjoy taking an idea from **concept → code → product**, especially when it solves a real problem.
 
----
+## 🚀 What I'm Working On
 
-## 🧠 What I'm Into
+* 📱 Android development with Kotlin
+* 🤖 AI-powered applications
+* 🌐 Web development
+* 🧠 Computer Science fundamentals
+* 🚀 Building products and experimenting with business ideas
 
-* 💻 Software Development
-* 🤖 Artificial Intelligence
-* 📱 Android Development
-* 🌐 Web Development
-* 🗄️ Backend & Databases
-* 🔐 Cybersecurity
-* 🧩 Algorithms & Problem Solving
-* 🚀 Entrepreneurship
+### 🛠️ Current Stack
 
----
+`Kotlin` `Python`  `HTML` `CSS` 
 
-## ⚡ Currently Building
+**Tools:** `Android Studio` `VS Code` `Cursor` `Git` `GitHub`
 
-I'm currently working on personal projects while preparing for my journey into **Computer Science at the University of The Gambia.**
+## 📌 Featured Project
 
-My focus is simple:
+### Matrix Gambia
 
-> **Learn the fundamentals. Build real things. Break them. Fix them. Repeat.**
+An Android learning platform built for Gambian students preparing for WASSCE.
 
----
+It brings together past questions, study resources, quizzes, AI assistance, offline learning, and other tools in one app.
 
-## 🌱 Currently Learning
+## 🎯 What I'm Building Toward
 
-* Kotlin & Android Development
-* Python
-* JavaScript
-* Data Structures & Algorithms
-* Databases
-* APIs & Backend Development
-* Git & GitHub
-* Software Engineering
-* AI Development
+I want to become a strong software engineer while building products that solve **real problems**, particularly in Africa.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `HTML` `CSS`
-
-**Development**
-
-`Android` `Git` `GitHub` `REST APIs`
-
-**Backend & Data**
-
-`Supabase` `Appwrite` `SQL`
-
-**Tools**
-
-`VS Code` `Android Studio` `Cursor`
-
----
-
-## 🚀 What I Want To Build
-
-I'm interested in building technology that solves **real problems**, especially problems affecting people and businesses across Africa.
-
-Long term, I want to work at the intersection of:
+My long-term focus is:
 
 **Software × AI × Entrepreneurship**
 
----
-
-## 🎯 The Mission
-
-* Become an exceptional software engineer.
-* Master computer science fundamentals.
-* Build products used by real people.
-* Contribute to open source.
-* Build and scale technology businesses.
-* Keep learning far beyond university.
-
----
-
-## 🤝 Open To
-
-* Open source collaboration
-* Student hackathons
-* Interesting software projects
-* AI experiments
-* Technical communities
-* Startup ideas
-* Building with ambitious people
-
----
-
-## 🌐 Connect
+## 🤝 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/alhusainou-mi-bah-a0a969334) • [X](https://x.com/mirioneve)
 
 ---
 
-## 📊 GitHub
-
-*Building my contribution graph one project at a time.*
-
----
-
-> **Learn deeply. Build relentlessly. Stay curious.**
+> Learn deeply. Build relentlessly.
